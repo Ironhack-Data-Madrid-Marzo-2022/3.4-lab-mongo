@@ -39,7 +39,7 @@ The collection contains more than 18k documents, and each of them has a lot of i
 
 ### Iteration 2
 
-You already know how this goes, so let's start working:
+You already know how this goes, so let's start working. Inside `your_code` folder, you will find a `main.ipynb` file. Answer the following questions on it making mongo queries.
 
 1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.
 2. All the companies that have more than 5000 employees. Limit the search to 20 companies and sort them by **number of employees**.
